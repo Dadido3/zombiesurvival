@@ -200,12 +200,12 @@ GM.ValidBeaconMessages = {
 }
 
 GM.FanList = {
-	"1418945843",
-	"1595085577",
-	"3311458935",
-	"3023059541",
-	"2000875318",
-	"778584317",
-	"6086255",
-	"2867054481"
+	"1418945843",	-- STEAM_0:0:25519603 "Moses" ?
+	"1595085577",	-- STEAM_0:0:42194705 ?
+	"3311458935",	-- STEAM_0:0:40372639 "Noctis Monger" ?
+	"3023059541",	-- STEAM_0:1:14133131 "Braindawg" because insulting nox staff
+	"2000875318",	-- STEAM_0:0:41804571 "Derek" ?
+	"778584317",	-- STEAM_0:0:9279901 "HG | Homer [C]" obv. because HG
+	"6086255",		-- STEAM_0:0:25520119 "Papa John" because HG
+	"2867054481"	-- STEAM_0:0:37719874 "The Loan Ranger" because HG
 }
